@@ -1,0 +1,22 @@
+# Environnement virtuel
+venv/
+.venv/
+
+# Informations sensibles
+.env
+.env.*
+
+# Fichiers temporaires Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Fichiers Jupyter temporaires
+.ipynb_checkpoints/
+
+# Configuration VS Code
+.vscode/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
